@@ -9,7 +9,7 @@ public class variables {
 
         // //final vaiable
 
-        []=// final int num=-29;-=-
+        // final int num=-29;-=-
         // num=1;
         // System.out.println(num);
 
